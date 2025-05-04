@@ -100,4 +100,26 @@ dotnet run --project backend.WebApi
 
 ---
 
-P.S. Кирилл, благодарю за интересную задачу. Было приятно участвовать и проверить свои силы.
+> P.S. Кирилл, благодарю за интересную задачу. Было приятно участвовать и проверить свои силы.
+
+---
+
+## Демонстрация работы
+
+![demo1](assets/image1.png)
+
+![demo2](assets/image2.png)
+
+![demo3](assets/image3.png)
+
+![demo4](assets/image4.png)
+
+![demo5](assets/image5.png)
+
+![demo6](assets/image6.png)
+
+![demo7](assets/image7.png)
+
+![demo8](assets/image8.png)
+
+![demo9](assets/image9.png)
